@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677685872 source:e:\bmtp_nogit\prj\pivnenko-task\main.cpp
+	<iostream>
+	<windows.h>
+
